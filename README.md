@@ -31,21 +31,7 @@ As a DAO, Gnosis uses the products that it creates to transparently guide decisi
 
 Gnosis Safe (multisig and programmable account), Cow Protocol (formerly CowSwap and Gnosis Protocol), Conditional Tokens (prediction markets), Gnosis Auction, and Zodiac (standard and tooling for composable DAOs) are all products incubated by Gnosis. Their success is demonstrated by the recent spin-out of Cow Protocol and the formation of SafeDAO. By combining needs-driven development with deep technical expertise, Gnosis has built the decentralized infrastructure for the Ethereum ecosystem.
 
-In November 2021, both the xDAI and GnosisDAO community voted to combine their vibrant ecosystems to create the Gnosis Chain: an EVM compatible, community owned network that prioritizes credible neutrality and resiliency. It uses the xDai token and includes a wide-ranging group of projects and users. Secured by over 100k validators around the world, Gnosis Chain has all the tooling you are used to and trustless bridges to mainnet soon. Using the same execution layer and consensus layer clients as Ethereum, Gnosis Chain is compatible with all future EIPs.
-
-## Gnosis Chain Tagline
-
-### Short:
-
-Gnosis Chain is an EVM compatible, community owned network that prioritizes credible neutrality and resiliency, open to everyone without privilege or prejudice. 
-
-### Long: 
-
-Gnosis Chain is an EVM compatible, community owned network that prioritizes credible neutrality and resiliency, open to everyone without privilege or prejudice. Secured by over 100k validators around the world, Gnosis Chain has all the tooling you are used to and trustless bridges to mainnet soon. Using the same execution and consensus layer clients as Ethereum, Gnosis Chain is compatible with all future EIPs.
-
-Its diverse validator set and the community governance ensure Gnosis Chain remains credibly neutral at a much lower price point than mainnet. Only 1 GNO is required to spin up a validator and the process is user-friendly. 
-
-Gnosis Chain uses a dual-token model. xDAI is a stable token used to pay for the execution of smart contracts and gas fees, and GNO is used for staking as the governance token for the GnosisDAO. 
+In November 2021, both the xDAI and GnosisDAO communities voted to combine their vibrant ecosystems to create Gnosis Chain: an EVM compatible, community- owned network that prioritizes credible neutrality and resiliency. It uses the xDai token and includes a wide-ranging group of projects and users. Secured by over 100k validators around the world, Gnosis Chain has all the tooling you are used to and trustless bridges to mainnet soon. Using the same execution layer and consensus layer clients as Ethereum, Gnosis Chain is compatible with all future EIPs.
 
 ## **Channels**
 
@@ -76,4 +62,4 @@ Gnosis Chain uses a dual-token model. xDAI is a stable token used to pay for the
 * Speak on behalf of a GnosisDAO contributor or Gnosis team member.
 * Use language that could be perceived as dismissive or derogatory towards other blockchain networks or projects
 * Call Gnosis Chain, xDai. 
-* That Gnosis Chain is PoA. (It is PoS). 
+* That Gnosis Chain is PoA. It is PoS. 
